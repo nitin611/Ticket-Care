@@ -1,4 +1,6 @@
 import React, { useState } from 'react'
+import PropTypes from 'prop-types';
+
 import logo from "../../assets/Logo/Logo-Full-Light.png"
 import { Link, matchPath } from 'react-router-dom'
 import { NavbarLinks } from '../../data/navbar-links'
@@ -14,6 +16,7 @@ import { useNavigate } from 'react-router'
 
 const NavBar = ({ setProgress }) => {
     const dispatch = useDispatch();
+    
 
     const { token } = useSelector(state => state.auth);
     const { user } = useSelector(state => state.profile);
@@ -214,5 +217,8 @@ const NavBar = ({ setProgress }) => {
     )
 }
 
-
+NavBar.propTypes = {
+    setProgress: PropTypes.func.isRequired,
+    // Add more prop types as needed
+  };
 export default NavBar

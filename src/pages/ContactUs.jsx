@@ -36,9 +36,9 @@ const ContactUs = () => {
         <div className='lg:w-[60%]'>
             <div className='border border-richblack-600 text-richblack-300 rounded-xl p-7 lg:p-14 flex gap-3 flex-col'>
                 <h1 className='text-4xl leading-10 font-semibold text-richblack-5'>
-                Do you want to be in Admin? We,ve got the Clients. Let's team up
+                Do you want to be in Admin? We,ve got the Clients. Let team up
                 </h1>
-                <p className='text-lg font-medium'>Tell us more about yourself and what you're got in mind.</p>
+                <p className='text-lg font-medium'>Tell us more about yourself and what you got in mind.</p>
                 <div className='mt-7'>
                     <ContactUsForm/>
                 </div>
