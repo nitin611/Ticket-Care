@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Ticket-Care/static/css/main.5925ff7b.css",
-    "main.js": "/Ticket-Care/static/js/main.0680bd97.js",
+    "main.css": "/Ticket-Care/static/css/main.9c20c1a3.css",
+    "main.js": "/Ticket-Care/static/js/main.7f8e4bf9.js",
     "static/media/banner.mp4": "/Ticket-Care/static/media/banner.ff5cd9801e9ff0e5c07e.mp4",
     "static/media/TimelineImage.png": "/Ticket-Care/static/media/TimelineImage.a610b1e5d891ac77fe93.png",
     "static/media/Logo-Full-Light.png": "/Ticket-Care/static/media/Logo-Full-Light.4e58ad0f22c50478420b.png",
@@ -19,11 +19,11 @@
     "static/media/Logo1.svg": "/Ticket-Care/static/media/Logo1.b2c24a5a3beb20a875b0f80c5d3a7933.svg",
     "static/media/Logo3.svg": "/Ticket-Care/static/media/Logo3.9ede0b8fa9815c349607d24a2fc2db64.svg",
     "static/media/Logo4.svg": "/Ticket-Care/static/media/Logo4.396cbd92b53e6362b13c448e73c6f28b.svg",
-    "main.5925ff7b.css.map": "/Ticket-Care/static/css/main.5925ff7b.css.map",
-    "main.0680bd97.js.map": "/Ticket-Care/static/js/main.0680bd97.js.map"
+    "main.9c20c1a3.css.map": "/Ticket-Care/static/css/main.9c20c1a3.css.map",
+    "main.7f8e4bf9.js.map": "/Ticket-Care/static/js/main.7f8e4bf9.js.map"
   },
   "entrypoints": [
-    "static/css/main.5925ff7b.css",
-    "static/js/main.0680bd97.js"
+    "static/css/main.9c20c1a3.css",
+    "static/js/main.7f8e4bf9.js"
   ]
 }
